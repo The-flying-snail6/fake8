@@ -1,0 +1,149 @@
+@charset "UTF-8";
+body { background: #f2f2f2; }
+
+#nav { width: 100%; background-image: url(../img/5936519aaac282@2x.png); background-size: 100% 100%; height: 4.24rem; }
+#nav .top { width: 100%; height: 0.66667rem; position: fixed; z-index: 99; top: 0; }
+#nav .top .img1 { margin-top: 0.18rem; float: left; width: 0.26667rem; height: 0.30667rem; }
+#nav .top P { width: 0.86667rem; font-size: 0.26667rem; line-height: 0.66667rem; color: #fff; float: left; margin-left: 0.24rem; letter-spacing: 0.01333rem; }
+#nav .top P img { display: inline-block; margin-left: 0.06667rem; width: 0.16rem; }
+#nav .top .shousuo { width: 6rem; height: 0.66667rem; background: #cbcbcb url(../img/图层37@2x.png) no-repeat 0.53333rem center; background-size: 0.34667rem 0.34667rem; float: left; margin-left: 0.13333rem; border-radius: 0.66667rem; padding-left: 1.06667rem; font-size: 0.32rem; line-height: 0.66667rem; letter-spacing: 0.02667rem; color: #848484; }
+#nav .top .img2 { float: left; width: 0.50667rem; height: 0.46667rem; margin-top: 0.10667rem; margin-left: 0.13333rem; }
+#nav .top .img3 { float: left; width: 0.45333rem; height: 0.38667rem; margin-top: 0.13333rem; margin-left: 0.2rem; }
+
+/*第二部分今日特价*/
+.box { width: 100%; height: 3rem; background: #fff; margin-top: 0.26667rem; padding-top: 0.13333rem; }
+.box ul { width: 100%; height: 2.6rem; overflow: hidden; }
+.box ul li { float: left; width: 20%; font-size: 0.26667rem; text-align: center; margin-top: 0.4rem; }
+.box ul li img { width: 1.14667rem; height: 1.14667rem; }
+.box ul li p { color: #666; margin-top: 0.26667rem; }
+.box .no1 { margin: 0 auto; overflow: hidden; width: 8%; height: 0.10667rem; }
+.box .no1 div { width: 0.10667rem; height: 0.10667rem; border-radius: 50%; background: #959595; float: left; margin-left: 0.26667rem; }
+.box .no1 div:first-child { background: #fddb48; }
+
+/*第三部分活动咨询*/
+.main { background: #fff; width: 100%; margin-top: 0.26667rem; padding-top: 0.4rem; overflow: hidden; }
+.main .toubu { width: 95%; height: 0.4rem; margin: 0 auto; overflow: hidden; }
+.main .toubu h2 { font-size: 0.30667rem; color: #333; float: left; }
+.main .toubu img { width: 0.29333rem; height: 0.29333rem; float: left; margin-left: 0.33333rem; margin-top: 0.06667rem; }
+.main .toubu p { font-size: 0.24rem; color: #666; float: left; margin-left: 0.4rem; margin-top: 0.06667rem; }
+.main .toubu p i { color: #fd663b; font-size: 0.26667rem; }
+.main .no2 { width: 100%; margin-top: 0.33333rem; background-image: url(../img/pic@2x.png); background-size: 100% 100%; height: 3.33333rem; position: relative; }
+.main .no2 p { color: #fff; height: 0.46667rem; width: 1.86667rem; font-size: 0.29333rem; border: 1px solid #fff; border-radius: 0.13333rem; position: absolute; top: 1.8rem; left: 4.06667rem; text-align: center; line-height: 0.46667rem; }
+.main .no3 { width: 50%; height: 1.53333rem; margin: 0 auto; background-image: url(../img/边框@2x.png); background-size: 100% 100%; margin-top: 0.66667rem; text-align: center; overflow: hidden; }
+.main .no3 h2 { font-size: 0.33333rem; margin-top: 0.4rem; }
+.main .no3 p { font-size: 0.21333rem; margin-top: 0.06667rem; }
+.main .liangbian { width: 100%; margin-top: 0.93333rem; }
+.main .liangbian ul { width: 100%; }
+.main .liangbian ul div { float: left; width: 2%; text-align: center; margin-top: 0.8rem; }
+.main .liangbian ul div img { width: 0.01333rem; height: 5.33333rem; }
+.main .liangbian ul li { float: left; width: 49%; text-align: center; }
+.main .liangbian ul li h2 { font-size: 0.33333rem; color: #444444; }
+.main .liangbian ul li span { display: block; color: #d6d6d6; font-size: 0.18667rem; margin-top: 0.13333rem; }
+.main .liangbian ul li .x1 { width: 2.84rem; height: 3.09333rem; }
+.main .liangbian ul li .x2 { width: 3.65333rem; height: 2.22667rem; margin-top: 0.46667rem; }
+.main .liangbian ul li .y1 { font-size: 0.24rem; margin-top: 0.73333rem; color: #444444; }
+.main .liangbian ul li .y2 { font-size: 0.24rem; margin-top: 0.30667rem; color: #444444; }
+.main .liangbian ul li h3 { font-size: 0.33333rem; }
+.main .liangbian ul li h3 span { display: inline-block; color: #444444; margin-left: 0.33333rem; margin-top: 0.26667rem; letter-spacing: 0.01333rem; }
+.main .liangbian ul li h3 span strong { font-size: 0.53333rem; color: #fd663b; }
+.main .liangbian ul li s { display: block; font-size: 0.29333rem; color: #d6d6d6; margin-top: 0.13333rem; letter-spacing: 0.01333rem; }
+.main .liangbian ul li b { display: block; width: 2.66667rem; height: 0.53333rem; line-height: 0.53333rem; background: #fbd42a url(../img/图层104副本@2x.png) no-repeat 0.26667rem center; background-size: 0.37333rem 0.37333rem; font-size: 0.26667rem; font-weight: normal; margin: 0 auto; border-radius: 0.66667rem; margin-top: 0.26667rem; padding-left: 0.2rem; color: #444444; }
+.main .mb { font-size: 0.24rem; width: 1.61333rem; margin: 0.8rem auto; margin-bottom: 0.53333rem; }
+.main .mb img { width: 1.61333rem; margin-top: 0.13333rem; }
+.main .mb span { width: 1.61333rem; display: block; text-align: center; letter-spacing: 0.01333rem; color: #666; }
+
+.aside { width: 100%; margin-top: 0.26667rem; background: #fff; overflow: hidden; }
+.aside .img6 { width: 1.98667rem; background: url(../img/图层116@2x.png) no-repeat; background-size: 100% 100%; height: 1.01333rem; line-height: 1.01333rem; margin: 0.26667rem auto; font-size: 0.37333rem; text-align: center; }
+.aside .ul3 { width: 92%; margin: 0.8rem auto; }
+.aside .ul3 li { width: 100%; }
+.aside .ul3 li .muji2 { width: 100%; height: 0.93333rem; }
+.aside .ul3 li .muji2 div { float: left; }
+.aside .ul3 li .muji2 div .span1 { display: block; background: #444444; font-size: 0.26667rem; color: #fff; width: 1.86667rem; height: 0.4rem; text-align: center; line-height: 0.4rem; }
+.aside .ul3 li .muji2 div .span2 { display: block; background: #444444; font-size: 0.26667rem; color: #fff; width: 2.13333rem; height: 0.4rem; text-align: center; line-height: 0.4rem; margin-top: 0.13333rem; }
+.aside .ul3 li .muji2 h3 { font-size: 0.33333rem; font-weight: normal; margin-right: 0.26667rem; float: right; margin-top: 0.49333rem; }
+.aside .ul3 li .muji3 { width: 100%; border-bottom: 0.01333rem solid #ddd; margin-top: 0.8rem; }
+.aside .ul3 li .muji3 li { width: 50%; float: left; }
+.aside .ul3 li .muji3 li:first-child { text-align: center; }
+.aside .ul3 li .muji3 li:first-child img { width: 2.49333rem; height: 2.74667rem; margin-bottom: 0.53333rem; }
+.aside .ul3 li .muji3 li:nth-child(2) p { font-size: 0.24rem; text-indent: 0.42667rem; margin-top: 0.13333rem; color: #666; letter-spacing: 0.01333rem; }
+.aside .ul4 { width: 92%; margin: 0.53333rem auto; }
+.aside .ul4 li { width: 100%; }
+.aside .ul4 li .muji2 { width: 100%; height: 0.93333rem; }
+.aside .ul4 li .muji2 div { float: right; }
+.aside .ul4 li .muji2 div .span1 { display: block; background: #444444; font-size: 0.26667rem; color: #fff; width: 1.86667rem; height: 0.4rem; text-align: center; line-height: 0.4rem; margin-left: 0.26667rem; }
+.aside .ul4 li .muji2 div .span2 { display: block; background: #444444; font-size: 0.26667rem; color: #fff; width: 2.13333rem; height: 0.4rem; text-align: center; line-height: 0.4rem; margin-top: 0.13333rem; }
+.aside .ul4 li .muji2 h3 { font-size: 0.33333rem; font-weight: normal; margin-left: 0.26667rem; float: left; margin-top: 0.49333rem; }
+.aside .ul4 li .muji3 { width: 100%; margin-top: 0.8rem; }
+.aside .ul4 li .muji3 li { width: 50%; float: left; }
+.aside .ul4 li .muji3 li:nth-child(2) { text-align: center; }
+.aside .ul4 li .muji3 li:nth-child(2) img { width: 2.89333rem; height: 2.88rem; margin-bottom: 0.53333rem; }
+.aside .ul4 li .muji3 li:first-child p { font-size: 0.24rem; text-indent: 0.42667rem; margin-top: 0.13333rem; color: #666; letter-spacing: 0.01333rem; }
+
+.jindian { width: 100%; margin-top: 0.26667rem; background: #fff; overflow: hidden; }
+.jindian .img7 { width: 100%; height: 3.65333rem; }
+.jindian .img8 { width: 2.70667rem; height: 0.66667rem; margin: 0.8rem auto; display: block; }
+.jindian .apple { width: 92%; border-bottom: 0.01333rem solid #ddd; }
+.jindian .apple li { width: 50%; float: left; margin-bottom: 0.26667rem; }
+.jindian .apple li:first-child { text-align: center; }
+.jindian .apple li:first-child img { width: 2.94667rem; height: 2.50667rem; }
+.jindian .apple li:nth-child(2) span { font-size: 0.24rem; display: inline-block; color: #444444; margin-left: 0.33333rem; margin-top: 0.26667rem; letter-spacing: 0.01333rem; }
+.jindian .apple li:nth-child(2) span strong { font-size: 0.53333rem; color: #fd663b; }
+.jindian .apple li:nth-child(2) s { display: inline-block; font-size: 0.24rem; color: #d6d6d6; margin-top: 0.13333rem; letter-spacing: 0.01333rem; }
+.jindian .apple li:nth-child(2) div { border-left: 0.02667rem solid #ddd; margin-left: 0.8rem; margin-bottom: 0.68rem; font-size: 0.28rem; }
+.jindian .apple li:nth-child(2) div p { margin-left: 0.13333rem; }
+.jindian .org { width: 92%; margin-top: 0.8rem; }
+.jindian .org li { width: 50%; float: left; }
+.jindian .org li:nth-child(2) { text-align: center; }
+.jindian .org li:nth-child(2) img { width: 2.94667rem; height: 2.50667rem; }
+.jindian .org li:first-child span { font-size: 0.24rem; display: inline-block; color: #444444; margin-left: 0.33333rem; margin-top: 0.26667rem; letter-spacing: 0.01333rem; }
+.jindian .org li:first-child span strong { font-size: 0.53333rem; color: #fd663b; }
+.jindian .org li:first-child s { display: inline-block; font-size: 0.24rem; color: #d6d6d6; margin-top: 0.13333rem; letter-spacing: 0.01333rem; }
+.jindian .org li:first-child div { border-left: 0.02667rem solid #ddd; margin-left: 0.8rem; margin-bottom: 0.68rem; font-size: 0.28rem; }
+.jindian .org li:first-child div p { margin-left: 0.13333rem; }
+.jindian .three { width: 100%; margin-top: 0.66667rem; }
+.jindian .three div { float: left; width: 2%; text-align: center; }
+.jindian .three div img { width: 0.01333rem; height: 2.66667rem; margin-top: 0.4rem; }
+.jindian .three li { width: 32%; float: left; text-align: center; }
+.jindian .three li h2 { font-size: 0.33333rem; color: #444444; font-weight: normal; }
+.jindian .three li b { display: block; color: #666; font-size: 0.18667rem; margin-top: 0.13333rem; }
+.jindian .three li img { margin-top: 0.26667rem; width: 1.57333rem; height: 1.53333rem; }
+.jindian .three li .fan { width: 85%; margin-left: 0.25333rem; }
+.jindian .three li .fan span { font-size: 0.16rem; float: left; display: inline-block; color: #444444; margin-top: 0.26667rem; letter-spacing: 0.01333rem; }
+.jindian .three li .fan span strong { font-size: 0.33333rem; color: #fd663b; font-weight: normal; }
+.jindian .three li .fan s { float: right; display: inline-block; font-size: 0.16rem; color: #d6d6d6; margin-top: 0.4rem; letter-spacing: 0.01333rem; }
+.jindian div { text-align: center; width: 100%; margin: 0.4rem 0; }
+
+.weidao { width: 100%; margin-top: 0.26667rem; background: #fff; overflow: hidden; }
+.weidao img { width: 100%; height: 4.17333rem; }
+.weidao .mb { font-size: 0.24rem; width: 1.61333rem; margin: 0.26667rem auto; }
+.weidao .mb img { width: 1.61333rem; height: 0.22667rem; margin-top: 0.13333rem; }
+.weidao .mb span { width: 1.61333rem; display: block; text-align: center; letter-spacing: 0.01333rem; color: #666; }
+
+.jindian { width: 100%; background: #fff; overflow: hidden; }
+.jindian .img8 { width: 2.70667rem; height: 0.66667rem; margin: 0.8rem auto; display: block; }
+.jindian .dajia { width: 95%; margin: 0.53333rem auto; border-bottom: 0.01333rem solid #ddd; }
+.jindian .dajia > li { float: left; }
+.jindian .dajia > li:first-child { width: 40%; text-align: center; }
+.jindian .dajia > li:first-child img { width: 3.01333rem; height: 2.86667rem; }
+.jindian .dajia > li:nth-child(2) { width: 60%; }
+.jindian .dajia > li:nth-child(2) h2 { font-size: 0.29333rem; color: #444444; font-weight: normal; margin-left: 0.26667rem; }
+.jindian .dajia > li:nth-child(2) p { display: block; color: #666; font-size: 0.18667rem; margin-top: 0.06667rem; margin-left: 0.26667rem; }
+.jindian .dajia > li:nth-child(2) .fan { width: 2.4rem; margin-left: 0.26667rem; font-size: 0.16rem; overflow: hidden; }
+.jindian .dajia > li:nth-child(2) .fan span { float: left; display: inline-block; color: #444444; margin-top: 0.26667rem; letter-spacing: 0.01333rem; }
+.jindian .dajia > li:nth-child(2) .fan span strong { font-size: 0.33333rem; color: #fd663b; font-weight: normal; }
+.jindian .dajia > li:nth-child(2) .fan s { float: right; display: inline-block; color: #d6d6d6; margin-top: 0.4rem; letter-spacing: 0.01333rem; }
+.jindian .dajia > li:nth-child(2) b { display: block; width: 1.6rem; height: 0.4rem; line-height: 0.4rem; background: #fbd42a url(../img/图层104副本@2x.png) no-repeat 0.26667rem center; background-size: 0.37333rem 0.37333rem; font-size: 0.26667rem; font-weight: normal; border-radius: 0.66667rem; margin-top: 0.26667rem; padding-left: 0.8rem; color: #444444; margin-left: 0.26667rem; margin-bottom: 0.54rem; }
+.jindian .mb { font-size: 0.24rem; width: 1.61333rem; margin: 0.26667rem auto; margin-bottom: 0.8rem; }
+.jindian .mb img { width: 1.61333rem; height: 0.22667rem; margin-top: 0.13333rem; }
+.jindian .mb span { width: 1.61333rem; display: block; text-align: center; letter-spacing: 0.01333rem; color: #666; }
+
+.wegame { width: 100%; background: #fff; overflow: hidden; margin-top: 0.26667rem; margin-bottom: 1.33333rem; }
+.wegame img { width: 100%; height: 1.33333rem; }
+
+.footer { width: 100%; height: 1.33333rem; background: #f5f3f3; margin-top: 0.26667rem; position: fixed; z-index: 99; bottom: 0; }
+.footer ul { width: 100%; overflow: hidden; margin-top: 0.4rem; }
+.footer ul li { float: left; width: 25%; font-size: 0.26667rem; text-align: center; }
+.footer ul li p { display: block; color: #666; }
+.footer ul li p:first { color: b8123e; }
+
+/*# sourceMappingURL=style.css.map */
